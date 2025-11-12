@@ -1,3 +1,6 @@
-[gd_scene format=3 uid="uid://d0wes3u8h2y2c"]
+[gd_scene load_steps=2 format=3 uid="uid://d0wes3u8h2y2c"]
+
+[ext_resource type="Script" uid="uid://ck72bnm036td5" path="res://Scripts/MonsterStatsScreen.cs" id="1_wxn7p"]
 
 [node name="MonsterStatsScreen" type="Node2D"]
+script = ExtResource("1_wxn7p")

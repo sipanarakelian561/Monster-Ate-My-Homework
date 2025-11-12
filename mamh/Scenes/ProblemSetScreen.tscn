@@ -1,3 +1,6 @@
-[gd_scene format=3 uid="uid://bas06iw0mpdsw"]
+[gd_scene load_steps=2 format=3 uid="uid://bas06iw0mpdsw"]
+
+[ext_resource type="Script" uid="uid://d1wibx2tyn2es" path="res://Scripts/ProblemSetScreen.cs" id="1_b4agk"]
 
 [node name="ProblemSetScrene" type="Node2D"]
+script = ExtResource("1_b4agk")

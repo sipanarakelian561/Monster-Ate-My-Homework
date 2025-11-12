@@ -1,3 +1,6 @@
-[gd_scene format=3 uid="uid://d0xjkp4po77k"]
+[gd_scene load_steps=2 format=3 uid="uid://d0xjkp4po77k"]
+
+[ext_resource type="Script" uid="uid://dbtkk8nvglohq" path="res://Scripts/HomeScreen.cs" id="1_dytv0"]
 
 [node name="HomeScrene" type="Node2D"]
+script = ExtResource("1_dytv0")
