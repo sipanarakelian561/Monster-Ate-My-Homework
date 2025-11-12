@@ -1,0 +1,28 @@
+# Godot
+.export/
+.import/
+mono/
+*.translation
+*.mo
+
+# Godot 4 C# build artifacts
+**/.godot/
+**/.mono/
+**/.vs/
+
+# C# / .NET
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+*.user
+*.suo
+*.userprefs
+
+# macOS
+.DS_Store
+
+# Rider / VSCode / IDE stuff
+.idea/
+.vscode/
+*.csproj.user
